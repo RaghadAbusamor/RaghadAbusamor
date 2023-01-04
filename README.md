@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 - 👋 I am Raghad Abu Samor
 - 🔭 I am enthusiastic, result-oriented person
-- 💁‍♂️ I am Studying computer system engineering at PPU.
-- 💻 I worked as a Administrator, Graphic designer and co-founder at a local platform "AntiExam"
+- 💁‍♂️ I am Studying computer system engineering at PPU
+- 💻 I worked as a Administrator, Graphic designer and co-founder at a local platform 
 - 🌱 I am currently focusing on learning python and Django
 - 😎 Further more, I taught over 50 people the MERN tech stack!
 
