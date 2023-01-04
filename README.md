@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 <h1>About Me 📌</h1>
 
-- 👋 I am Raghad Abu Samor
-- 🔭 I am enthusiastic, result-oriented person
-- 💁‍♂️ I am Studying computer system engineering at PPU
-- 💻 I worked as a Administrator, Graphic designer and co-founder at a local platform 
-- 🌱 I am currently focusing on learning python and Django
+- 👋 I’m Raghad Abu Samor
+- 🔭 I’m enthusiastic, result-oriented person
+- 💁‍♂️ I’m Studying computer system engineering at PPU
+- 💻 I’m currently working as a Administrator, Graphic designer and co-founder at a local platform 
+- 🌱 I’m currently focusing on learning python and Django
 - 😎 Further more, I taught over 50 people the MERN tech stack!
 
 
